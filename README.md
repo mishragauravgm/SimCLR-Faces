@@ -1,7 +1,8 @@
-# SimCLR for Faces
+---
+noteId: "708531c0f33b11ec8e08f3de8bf47f07"
+tags: []
 
-A repository for Contrastive Learning on Faces
-
+---
 
 # SimCLR
 PyTorch implementation of SimCLR: A Simple Framework for Contrastive Learning of Visual Representations by T. Chen et al.
