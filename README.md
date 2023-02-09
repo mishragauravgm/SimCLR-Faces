@@ -1,3 +1,8 @@
+# SimCLR for Faces
+
+A repository for Contrastive Learning on Faces
+
+
 # SimCLR
 PyTorch implementation of SimCLR: A Simple Framework for Contrastive Learning of Visual Representations by T. Chen et al.
 Including support for:
